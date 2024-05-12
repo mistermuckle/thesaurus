@@ -1,15 +1,15 @@
 # Date/Time
 
-  - date
-  - day
+  [date](date.md)
+  [day](day.md)
   - difference
-  - hour
-  - hours
-  - minute
-  - minutes
-  - month
-  - time
-  - timezone
-  - year
+  [hour](hour.md)
+  [hours](hours.md)
+  [minute](minute.md)
+  [minutes](minutes.md)
+  [month](month.md)
+  [time](time.md)
+  [timezone](timezone.md)
+  [year](year.md)
 
 [↵ back](../README.md)
