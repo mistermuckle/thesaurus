@@ -1,28 +1,17 @@
--nyms
-=====
+Definitions
+===========
 
-- [Antonyms][]
-- [Heteronyms][]
-- [Holonyms][]
-- [Homonyms][]
-- [Hypernyms][]
-- [Hyponyms][]
-- [Meronyms][]
-- [Metonyms][]
-- [Paronyms][]
-- [Retronyms][]
-- [Synonyms][]
-- [Teoponyms][]
+- **Antonym**
 
+    a word that expresses a meaning opposed to the meaning of another word
 
-[antonyms]:  https://en.wiktionary.org/wiki/antonym
-    "words that expresses a meaning opposed to the meaning of another word"
+- **Heteronym**
 
-[heteronyms]:  https://en.wiktionary.org/wiki/heteronym
-    "two words are heteronyms if they are spelled the same way but differ in pronunciation"
+    two words are heteronyms if they are spelled the same way but differ in pronunciation
 
-[holonyms]:  https://en.wiktionary.org/wiki/holonym
-    "words that names the whole of which a given word is a part"
+- **Holonym**
+
+    a word that names the whole of which a given word is a part
 
 [homonyms]:  https://en.wiktionary.org/wiki/homonym
     "two words are homonyms if they are pronounced and spelled the same way but have different meanings"
