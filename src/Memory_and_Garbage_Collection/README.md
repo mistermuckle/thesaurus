@@ -1,7 +1,7 @@
 # Memory and Garbage Collection
 
   - address
-  - allocate
+  - [allocate](allocate.md)
   - allocator
   - arena
   - block
@@ -10,7 +10,7 @@
   - chunk
   - context
   - dispose
-  - free
+  - [free](free.md)
   - invalidate
   - link
   - memory
@@ -19,7 +19,7 @@
   - pool
   - reference
   - relate
-  - release
+  - [release](release.md)
   - retain
   - segment
   - size

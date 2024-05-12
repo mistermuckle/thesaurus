@@ -3,19 +3,19 @@
   - accept
   - bind
   - chunk
-  - connection
-  - download
-  - handshake
+  - [connection](connection.md)
+  - [download](download.md)
+  - [handshake](handshake.md)
   - host
-  - ip
+  - IP
   - listen
-  - packet
-  - payload
-  - read
-  - receive
-  - send
+  - [packet](packet.md)
+  - [payload](payload.md)
+  - [read](read.md)
+  - [receive](receive.md)
+  - [send](send.md)
   - socket
-  - upload
-  - write
+  - [upload](upload.md)
+  - [write](write.md)
 
 [↵ back](../README.md)

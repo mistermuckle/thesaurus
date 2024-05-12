@@ -1,8 +1,12 @@
-# Resizing
+# enlarge
 
-  - [enlarge](enlarge.md)
+## Hyponyms
+
   - [extend](extend.md)
+
+## Synonyms
+
   - [grow](grow.md)
   - [resize](resize.md)
 
-[↵ back](../README.md)
+[↵ back](README.md)

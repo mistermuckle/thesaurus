@@ -1,6 +1,6 @@
 # Return Values
 
-  - output
-  - result
+  - [output](output.md)
+  - [result](result.md)
 
 [↵ back](../README.md)

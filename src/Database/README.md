@@ -1,11 +1,11 @@
 # Database
 
   - commit
-  - connect
+  - [connect](connect.md)
   - current
   - cursor
   - database
-  - disconnect
+  - [disconnect](disconnect.md)
   - populate
   - query
   - record

@@ -1,14 +1,14 @@
 # File
 
-  - append
-  - directory
-  - file
-  - io
+  - [append](append.md)
+  - [directory](directory.md)
+  - [file](file.md)
+  - I/O
   - lock
   - open
   - path
-  - read
+  - [read](read.md)
   - unlock
-  - write
+  - [write](write.md)
 
 [↵ back](../README.md)

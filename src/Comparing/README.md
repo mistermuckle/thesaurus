@@ -1,9 +1,9 @@
 # Comparing
 
   - compare
-  - contains
+  - [contains](contains.md)
   - difference
-  - equals
-  - matches
+  - [equals](equals.md)
+  - [matches](matches.md)
 
 [↵ back](../README.md)
