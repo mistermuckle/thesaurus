@@ -1,31 +1,32 @@
 Tasks and Operations
-======
+====================
 
-- [action](action.md)
-- [batch](batch.md)
-- [bulk](bulk.md)
-- [continue](continue.md)
-- [handle](handle.md)
-- [hold](hold.md)
-- [invoke](invoke.md)
-- [job](job.md)
-- [launch](launch.md)
-- [mass](mass.md)
-- [operation](operation.md)
-- [proceed](proceed.md)
-- [process](process.md)
-- [progress](progress.md)
-- [redo](redo.md)
-- [request](request.md)
-- [reset](reset.md)
-- [respond](respond.md)
-- [restart](restart.md)
-- [resume](resume.md)
-- [routine](routine.md)
-- [run](run.md)
-- [start](start.md)
-- [stop](stop.md)
-- [suspend](suspend.md)
-- [task](task.md)
-- [undo](undo.md)
-- [↵ back](../README.md)
+- action
+- batch
+- bulk
+- continue
+- handle
+- hold
+- invoke
+- job
+- launch
+- mass
+- operation
+- proceed
+- process
+- progress
+- redo
+- request
+- reset
+- respond
+- restart
+- resume
+- routine
+- run
+- start
+- stop
+- suspend
+- task
+- undo
+
+[↵ back](../README.md)

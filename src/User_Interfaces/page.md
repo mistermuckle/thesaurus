@@ -1,4 +1,0 @@
-page
-====
-
-[↵ back](README.md)

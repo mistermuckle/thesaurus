@@ -1,4 +1,0 @@
-cookie
-======
-
-[↵ back](README.md)

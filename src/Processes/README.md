@@ -1,18 +1,19 @@
 Processes
-======
+=========
 
-- [connecting](connecting.md)
-- [execute](execute.md)
-- [idling](idling.md)
-- [initializing](initializing.md)
-- [kill](kill.md)
-- [launch](launch.md)
-- [lingering](lingering.md)
-- [pending](pending.md)
-- [process](process.md)
-- [processing](processing.md)
+- connecting
+- execute
+- idling
+- initializing
+- kill
+- launch
+- lingering
+- pending
+- process
+- processing
 - [reading](reading.md)
-- [restart](restart.md)
-- [waiting](waiting.md)
+- restart
+- waiting
 - [writing](writing.md)
-- [↵ back](../README.md)
+
+[↵ back](../README.md)

@@ -1,4 +1,0 @@
-caption
-=======
-
-[↵ back](README.md)

@@ -1,5 +1,5 @@
 Roles
-======
+=====
 
 - [administrator](administrator.md)
 - [author](author.md)
@@ -14,4 +14,5 @@ Roles
 - [subscriber](subscriber.md)
 - [user](user.md)
 - [viewer](viewer.md)
-- [↵ back](../README.md)
+
+[↵ back](../README.md)

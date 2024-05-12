@@ -1,4 +1,0 @@
-headline
-========
-
-[↵ back](README.md)

@@ -1,8 +1,8 @@
 Storage
 =======
 
-- [read](read.md)
-- [save](save.md)
-- [store](store.md)
+- read
+- save
+- store
 
 [↵ back](../README.md)

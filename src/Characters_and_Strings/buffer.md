@@ -4,4 +4,6 @@ buffer
 Hyponyms
 --------
 
--  [string](string.md)
+  -  [string](string.md)
+
+[↵ back](README.md)

@@ -1,5 +1,5 @@
 Characters and Strings
-======
+======================
 
 - [append](append.md)
 - [bind](bind.md)

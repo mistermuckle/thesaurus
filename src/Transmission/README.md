@@ -1,8 +1,9 @@
 Transmission
-======
+============
 
-- [deliver](deliver.md)
-- [send](send.md)
-- [transfer](transfer.md)
-- [transmit](transmit.md)
-- [↵ back](../README.md)
+- deliver
+- send
+- transfer
+- transmit
+
+[↵ back](../README.md)

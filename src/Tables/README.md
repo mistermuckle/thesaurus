@@ -1,6 +1,7 @@
 Tables
 ======
 
-- [column](column.md)
-- [row](row.md)
-- [↵ back](../README.md)
+- column
+- row
+
+[↵ back](../README.md)

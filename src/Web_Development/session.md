@@ -1,4 +1,0 @@
-session
-=======
-
-[↵ back](README.md)

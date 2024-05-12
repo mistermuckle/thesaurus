@@ -1,4 +1,0 @@
-name
-====
-
-[↵ back](README.md)
