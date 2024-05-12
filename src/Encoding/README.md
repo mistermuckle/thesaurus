@@ -1,9 +1,9 @@
 # Encoding
 
-  - decode
-  - decrypt
-  - encode
-  - encrypt
+  - [decode](decode.md)
+  - [decrypt](decrypt.md)
+  - [encode](encode.md)
+  - [encrypt](encrypt.md)
   - mangle
 
 [↵ back](../README.md)
