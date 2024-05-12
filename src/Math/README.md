@@ -1,8 +1,7 @@
-Math
-====
+# Math
 
-- random
-- randomize
-- round
+  - random
+  - randomize
+  - round
 
 [↵ back](../README.md)

@@ -1,9 +1,8 @@
-Updating
-========
+# Updating
 
-- refresh
-- touch
-- update
-- upgrade
+  - refresh
+  - touch
+  - update
+  - upgrade
 
 [↵ back](../README.md)

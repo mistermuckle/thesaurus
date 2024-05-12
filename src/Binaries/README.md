@@ -1,6 +1,5 @@
-Binaries
-========
+# Binaries
 
-- symbols
+  - symbols
 
 [↵ back](../README.md)

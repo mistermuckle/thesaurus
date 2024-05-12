@@ -1,30 +1,29 @@
-Destruction
-===========
+# Destruction
 
-- clean
-- cleanup
-- clear
-- close
-- commit
-- delete
-- destroy
-- destruct
-- destructor
-- dispose
-- drop
-- erase
-- exit
-- finalize
-- free
-- invalidate
-- kill
-- purge
-- release
-- remove
-- stop
-- terminate
-- uninstall
-- unlink
-- wipe
+  - clean
+  - cleanup
+  - clear
+  - close
+  - commit
+  - delete
+  - destroy
+  - destruct
+  - destructor
+  - dispose
+  - drop
+  - erase
+  - exit
+  - finalize
+  - free
+  - invalidate
+  - kill
+  - purge
+  - release
+  - remove
+  - stop
+  - terminate
+  - uninstall
+  - unlink
+  - wipe
 
 [↵ back](../README.md)

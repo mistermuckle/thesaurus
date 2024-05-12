@@ -1,8 +1,6 @@
-insert
-======
+# insert
 
-Hypernyms
----------
+## Hypernyms
 
   - [resize](./resize.md)
 

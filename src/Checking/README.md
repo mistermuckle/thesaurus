@@ -1,8 +1,7 @@
-Checking
-========
+# Checking
 
-- can
-- has
-- is
+  - can
+  - has
+  - is
 
 [↵ back](../README.md)

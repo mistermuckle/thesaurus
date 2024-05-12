@@ -1,8 +1,7 @@
-Duplication
-===========
+# Duplication
 
-- clone
-- copy
-- duplicate
+  - clone
+  - copy
+  - duplicate
 
 [↵ back](../README.md)

@@ -1,8 +1,7 @@
-Streams
-=======
+# Streams
 
-- peek
-- rewind
-- tell
+  - peek
+  - rewind
+  - tell
 
 [↵ back](../README.md)

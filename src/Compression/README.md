@@ -1,9 +1,8 @@
-Compression
-===========
+# Compression
 
-- compress
-- minimize
-- shorten
-- shrink
+  - compress
+  - minimize
+  - shorten
+  - shrink
 
 [↵ back](../README.md)

@@ -1,13 +1,10 @@
-C string
-========
+# C string
 
-Hypernyms
----------
+## Hypernyms
 
   - [string](string.md)
 
-Synonyms
---------
+## Synonyms
 
   - [zero-terminated string](zero-terminated_string.md)
 

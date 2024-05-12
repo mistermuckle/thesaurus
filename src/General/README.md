@@ -1,7 +1,6 @@
-General
-=======
+# General
 
-- environment
-- value
+  - environment
+  - value
 
 [↵ back](../README.md)

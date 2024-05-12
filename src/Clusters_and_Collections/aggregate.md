@@ -1,8 +1,6 @@
-aggregate
-=========
+# aggregate
 
-Synonyms
---------
+## Synonyms
 
   - [accumulate](./accumulate.md)
   - [collect](./collect.md)

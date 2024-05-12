@@ -1,13 +1,10 @@
-writable
-========
+# writable
 
-Antonyms
---------
+## Antonyms
 
   - [readable](readable.md)
 
-Hypernyms
----------
+## Hypernyms
 
   - [mutable](mutable.md)
 

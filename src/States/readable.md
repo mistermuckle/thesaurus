@@ -1,8 +1,6 @@
-readable
-========
+# readable
 
-Antonyms
---------
+## Antonyms
 
   - [writable](writable.md)
 

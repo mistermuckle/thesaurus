@@ -1,8 +1,6 @@
-subscriber
-==========
+# subscriber
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

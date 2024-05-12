@@ -1,8 +1,7 @@
-Storage
-=======
+# Storage
 
-- read
-- save
-- store
+  - read
+  - save
+  - store
 
 [↵ back](../README.md)

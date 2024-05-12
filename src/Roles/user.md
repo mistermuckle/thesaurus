@@ -1,8 +1,6 @@
-user
-====
+# user
 
-Hyponyms
---------
+## Hyponyms
 
   - [administrator](administrator.md)
   - [author](author.md)

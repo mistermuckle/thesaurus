@@ -1,19 +1,15 @@
-string
-======
+# string
 
-Hypernyms
----------
+## Hypernyms
 
   - [buffer](buffer.md)
 
-Hyponyms
---------
+## Hyponyms
 
   - [C string](c_string.md)
   - [zero-terminated string](zero-terminated_string.md)
 
-Meronyms
---------
+## Meronyms
 
   - [character](./character.md)
 

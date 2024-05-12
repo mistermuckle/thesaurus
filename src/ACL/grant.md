@@ -1,8 +1,7 @@
-grant
-=====
+# grant
 
-Antonyms
---------
+## Antonyms
+
   - [deny](deny.md)
 
 [↵ back](README.md)

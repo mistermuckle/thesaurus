@@ -1,7 +1,6 @@
-Links
-=====
+# Links
 
-- [next](next.md)
-- [previous](previous.md)
+  - [next](next.md)
+  - [previous](previous.md)
 
 [↵ back](../README.md)

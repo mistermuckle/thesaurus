@@ -1,8 +1,7 @@
-Templates
-=========
+# Templates
 
-- assign
-- display
-- render
+  - assign
+  - display
+  - render
 
 [↵ back](../README.md)

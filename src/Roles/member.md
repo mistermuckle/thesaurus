@@ -1,8 +1,6 @@
-member
-======
+# member
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

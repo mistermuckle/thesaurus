@@ -1,8 +1,7 @@
-Clusters and Collections
-========================
+# Clusters and Collections
 
-- [accumulate](accumulate.md)
-- [aggregate](aggregate.md)
-- [collect](collect.md)
+  - [accumulate](accumulate.md)
+  - [aggregate](aggregate.md)
+  - [collect](collect.md)
 
 [↵ back](../README.md)

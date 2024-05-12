@@ -1,8 +1,6 @@
-manager
-=======
+# manager
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

@@ -1,8 +1,6 @@
-next
-====
+# next
 
-Antonyms
---------
+## Antonyms
 
   - [previous](previous.md)
   

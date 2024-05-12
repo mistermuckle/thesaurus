@@ -1,8 +1,6 @@
-buffer
-======
+# buffer
 
-Hyponyms
---------
+## Hyponyms
 
   -  [string](string.md)
 

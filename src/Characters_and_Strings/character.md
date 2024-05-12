@@ -1,8 +1,7 @@
-character
-=========
+# character
 
-Holonyms
---------
+## Holonyms
+
   - [string](string.md)
 
 [↵ back](README.md)

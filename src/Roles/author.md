@@ -1,8 +1,6 @@
-author
-======
+# author
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

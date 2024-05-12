@@ -1,8 +1,6 @@
-contributor
-===========
+# contributor
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

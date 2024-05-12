@@ -1,8 +1,6 @@
-message
-=======
+# message
 
-Hyponyms
---------
+## Hyponyms
 
   - [request](request.md)
   - [response](response.md)

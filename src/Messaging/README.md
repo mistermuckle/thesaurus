@@ -1,8 +1,7 @@
-Messaging
-=========
+# Messaging
 
-- [message](message.md)
-- [request](request.md)
-- [response](response.md)
+  - [message](message.md)
+  - [request](request.md)
+  - [response](response.md)
 
 [↵ back](../README.md)

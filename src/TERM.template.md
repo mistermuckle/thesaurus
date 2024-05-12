@@ -1,5 +1,4 @@
-TERM
-====
+# TERM
 
 <!--
 ## Antonyms

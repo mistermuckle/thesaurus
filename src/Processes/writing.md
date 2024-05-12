@@ -1,8 +1,6 @@
-writing
-=======
+# writing
 
-Antonyms
---------
+## Antonyms
 
   - [reading](reading.md)
 

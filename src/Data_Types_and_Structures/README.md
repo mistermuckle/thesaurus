@@ -1,8 +1,7 @@
-Data Types and Structures
-=========================
+# Data Types and Structures
 
-- buffer
-- pointer
-- string
+  - buffer
+  - pointer
+  - string
 
 [↵ back](../README.md)

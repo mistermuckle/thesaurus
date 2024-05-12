@@ -1,7 +1,6 @@
-Return Values
-=============
+# Return Values
 
-- output
-- result
+  - output
+  - result
 
 [↵ back](../README.md)

@@ -1,13 +1,10 @@
-append
-======
+# append
 
-Hypernyms
----------
+## Hypernyms
 
  - [resize](resize.md)
 
-Synonyms
---------
+## Synonyms
 
  - [concatenate](concatenate.md)
 

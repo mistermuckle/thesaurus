@@ -1,10 +1,9 @@
-Merging
-=======
+# Merging
 
-- apply
-- combine
-- concatenate
-- join
-- merge
+  - apply
+  - combine
+  - concatenate
+  - join
+  - merge
 
 [↵ back](../README.md)

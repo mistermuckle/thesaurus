@@ -1,14 +1,13 @@
-Language Features
-=================
+# Language Features
 
-- argument
-- attribute
-- constant
-- default
-- function
-- identifier
-- parameter
-- specifier
-- variable
+  - argument
+  - attribute
+  - constant
+  - default
+  - function
+  - identifier
+  - parameter
+  - specifier
+  - variable
 
 [↵ back](../README.md)

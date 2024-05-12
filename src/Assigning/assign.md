@@ -1,8 +1,7 @@
-assign
-======
+# assign
 
-Synonyms
---------
+## Synonyms
+
   - [set](set.md)
 
 [↵ back](README.md)

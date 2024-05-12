@@ -1,9 +1,8 @@
-Interface Names
-===============
+# Interface Names
 
-- iterator
-- observable
-- process
-- serializable
+  - iterator
+  - observable
+  - process
+  - serializable
 
 [↵ back](../README.md)

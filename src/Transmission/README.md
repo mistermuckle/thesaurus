@@ -1,9 +1,8 @@
-Transmission
-============
+# Transmission
 
-- deliver
-- send
-- transfer
-- transmit
+  - deliver
+  - send
+  - transfer
+  - transmit
 
 [↵ back](../README.md)

@@ -1,7 +1,6 @@
-ACL
-===
+# ACL
 
-- [deny](deny.md)
-- [grant](grant.md)
+  - [deny](deny.md)
+  - [grant](grant.md)
 
 [↵ back](../README.md)

@@ -1,7 +1,6 @@
-Tables
-======
+# Tables
 
-- column
-- row
+  - column
+  - row
 
 [↵ back](../README.md)

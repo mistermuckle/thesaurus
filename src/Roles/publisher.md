@@ -1,8 +1,6 @@
-publisher
-=========
+# publisher
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

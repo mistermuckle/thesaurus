@@ -1,13 +1,10 @@
-response
-========
+# response
 
-Antonyms
---------
+## Antonyms
 
   - [request](request.md)
 
-Hypernyms
----------
+## Hypernyms
 
   - [message](message.md)
 

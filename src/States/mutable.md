@@ -1,8 +1,6 @@
-mutable
-=======
+# mutable
 
-Hyponyms
---------
+## Hyponyms
 
   - [writable](writable.md)
 

@@ -1,8 +1,6 @@
-collaborator
-============
+# collaborator
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

@@ -1,8 +1,6 @@
-moderator
-=========
+# moderator
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 

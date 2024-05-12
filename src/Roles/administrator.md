@@ -1,8 +1,6 @@
-administrator
-=============
+# administrator
 
-Hypernyms
----------
+## Hypernyms
 
   - [user](user.md)
 
