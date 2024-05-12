@@ -2,7 +2,7 @@
 
 ## Hyponyms
 
-  - [map](map.md)
+  - [map](map_n.md)
 
 ## Meronyms
 

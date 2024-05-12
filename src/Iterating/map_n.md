@@ -1,10 +1,12 @@
-# map
+# map (noun)
 
+## Homonyms
+
+  - [map](map_v.md)
+  
 ## Hypernyms
 
-  - [iterate](iterate.md)
   - [list](list.md)
-  - [walk](walk.md)
 
 ## Meronyms
 
