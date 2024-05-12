@@ -1,30 +1,11 @@
-Reporter
-======
+reporter
+========
 
-[Antonyms][]
-------
-[Holonyms][]
-------
-[Homonyms][]
-------
-[Hypernyms][]
-------
-[Hyponyms][]
-------
-[Meronyms][]
-------
-[Metonyms][]
-------
-[Synonyms][]
-------
-[Troponyms][]
-------
+[↵ back](README.md)
+
 
 [antonyms]:  https://en.wiktionary.org/wiki/antonym
     "words that expresses a meaning opposed to the meaning of another word"
-
-[heteronyms]:  https://en.wiktionary.org/wiki/heteronym
-    "two words are heteronyms if they are spelled the same way but differ in pronunciation"
 
 [heteronyms]:  https://en.wiktionary.org/wiki/heteronym
     "two words are heteronyms if they are spelled the same way but differ in pronunciation"

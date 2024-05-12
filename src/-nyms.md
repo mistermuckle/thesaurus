@@ -1,26 +1,18 @@
-Serializable
-======
+-nyms
+=====
 
-[Antonyms][]
-------
-[Holonyms][]
-------
-[Homonyms][]
-------
-[Hypernyms][]
-------
-[Hyponyms][]
-------
-[Meronyms][]
-------
-[Metonyms][]
-------
-[Synonyms][]
-------
-[Troponyms][]
-------
-
-[↵ back](README.md)
+- [Antonyms][]
+- [Heteronyms][]
+- [Holonyms][]
+- [Homonyms][]
+- [Hypernyms][]
+- [Hyponyms][]
+- [Meronyms][]
+- [Metonyms][]
+- [Paronyms][]
+- [Retronyms][]
+- [Synonyms][]
+- [Teoponyms][]
 
 
 [antonyms]:  https://en.wiktionary.org/wiki/antonym
@@ -29,14 +21,8 @@ Serializable
 [heteronyms]:  https://en.wiktionary.org/wiki/heteronym
     "two words are heteronyms if they are spelled the same way but differ in pronunciation"
 
-[heteronyms]:  https://en.wiktionary.org/wiki/heteronym
-    "two words are heteronyms if they are spelled the same way but differ in pronunciation"
-
 [holonyms]:  https://en.wiktionary.org/wiki/holonym
     "words that names the whole of which a given word is a part"
-
-[homonyms]:  https://en.wiktionary.org/wiki/homonym
-    "two words are homonyms if they are pronounced and spelled the same way but have different meanings"
 
 [homonyms]:  https://en.wiktionary.org/wiki/homonym
     "two words are homonyms if they are pronounced and spelled the same way but have different meanings"

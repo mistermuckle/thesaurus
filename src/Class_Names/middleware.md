@@ -1,24 +1,8 @@
 Middleware
 ======
 
-[Antonyms][]
-------
-[Holonyms][]
-------
-[Homonyms][]
-------
-[Hypernyms][]
-------
-[Hyponyms][]
-------
-[Meronyms][]
-------
-[Metonyms][]
-------
-[Synonyms][]
-------
-[Troponyms][]
-------
+[↵ back](README.md)
+
 
 [antonyms]:  https://en.wiktionary.org/wiki/antonym
     "words that expresses a meaning opposed to the meaning of another word"
@@ -26,15 +10,9 @@ Middleware
 [heteronyms]:  https://en.wiktionary.org/wiki/heteronym
     "two words are heteronyms if they are spelled the same way but differ in pronunciation"
 
-[heteronyms]:  https://en.wiktionary.org/wiki/heteronym
-    "two words are heteronyms if they are spelled the same way but differ in pronunciation"
-
 [holonyms]:  https://en.wiktionary.org/wiki/holonym
     "words that names the whole of which a given word is a part"
-
-[homonyms]:  https://en.wiktionary.org/wiki/homonym
-    "two words are homonyms if they are pronounced and spelled the same way but have different meanings"
-
+p
 [homonyms]:  https://en.wiktionary.org/wiki/homonym
     "two words are homonyms if they are pronounced and spelled the same way but have different meanings"
 
