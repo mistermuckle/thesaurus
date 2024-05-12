@@ -1,21 +1,22 @@
 Networking
-======
+==========
 
-- [accept](accept.md)
-- [bind](bind.md)
-- [chunk](chunk.md)
-- [connection](connection.md)
-- [download](download.md)
-- [handshake](handshake.md)
-- [host](host.md)
-- [ip](ip.md)
-- [listen](listen.md)
-- [packet](packet.md)
-- [payload](payload.md)
-- [read](read.md)
-- [receive](receive.md)
-- [send](send.md)
-- [socket](socket.md)
-- [upload](upload.md)
-- [write](write.md)
-- [↵ back](../README.md)
+- accept
+- bind
+- chunk
+- connection
+- download
+- handshake
+- host
+- ip
+- listen
+- packet
+- payload
+- read
+- receive
+- send
+- socket
+- upload
+- write
+
+[↵ back](../README.md)

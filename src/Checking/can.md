@@ -1,4 +1,0 @@
-can
-===
-
-[↵ back](README.md)

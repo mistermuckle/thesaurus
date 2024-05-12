@@ -1,15 +1,16 @@
 Date/Time
-======
+=========
 
-- [date](date.md)
-- [day](day.md)
-- [difference](difference.md)
-- [hour](hour.md)
-- [hours](hours.md)
-- [minute](minute.md)
-- [minutes](minutes.md)
-- [month](month.md)
-- [time](time.md)
-- [timezone](timezone.md)
-- [year](year.md)
-- [↵ back](../README.md)
+- date
+- day
+- difference
+- hour
+- hours
+- minute
+- minutes
+- month
+- time
+- timezone
+- year
+
+[↵ back](../README.md)

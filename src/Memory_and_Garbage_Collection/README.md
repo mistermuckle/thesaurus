@@ -1,31 +1,32 @@
 Memory and Garbage Collection
-======
+=============================
 
-- [address](address.md)
-- [allocate](allocate.md)
-- [allocator](allocator.md)
-- [arena](arena.md)
-- [block](block.md)
-- [buffer](buffer.md)
-- [capacity](capacity.md)
-- [chunk](chunk.md)
-- [context](context.md)
-- [dispose](dispose.md)
-- [free](free.md)
-- [invalidate](invalidate.md)
-- [link](link.md)
-- [memory](memory.md)
-- [new](new.md)
-- [pointer](pointer.md)
-- [pool](pool.md)
-- [reference](reference.md)
-- [relate](relate.md)
-- [release](release.md)
-- [retain](retain.md)
-- [segment](segment.md)
-- [size](size.md)
-- [steal](steal.md)
-- [storage](storage.md)
-- [unlink](unlink.md)
-- [unreference](unreference.md)
-- [↵ back](../README.md)
+- address
+- allocate
+- allocator
+- arena
+- block
+- buffer
+- capacity
+- chunk
+- context
+- dispose
+- free
+- invalidate
+- link
+- memory
+- new
+- pointer
+- pool
+- reference
+- relate
+- release
+- retain
+- segment
+- size
+- steal
+- storage
+- unlink
+- unreference
+
+[↵ back](../README.md)

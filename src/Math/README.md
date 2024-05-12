@@ -1,7 +1,8 @@
 Math
-======
+====
 
-- [random](random.md)
-- [randomize](randomize.md)
-- [round](round.md)
-- [↵ back](../README.md)
+- random
+- randomize
+- round
+
+[↵ back](../README.md)

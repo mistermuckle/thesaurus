@@ -1,27 +1,28 @@
 Loops, Lists and Arrays
-======
+=======================
 
-- [add](add.md)
-- [backward](backward.md)
-- [bucket](bucket.md)
-- [each](each.md)
-- [element](element.md)
-- [enum](enum.md)
-- [enumerate](enumerate.md)
-- [find](find.md)
-- [foreach](foreach.md)
-- [forward](forward.md)
-- [index](index.md)
-- [item](item.md)
-- [iterate](iterate.md)
-- [iterator](iterator.md)
-- [list](list.md)
-- [lookup](lookup.md)
-- [pop](pop.md)
-- [push](push.md)
-- [remove](remove.md)
-- [repeat](repeat.md)
-- [reverse](reverse.md)
-- [rewind](rewind.md)
-- [slot](slot.md)
-- [↵ back](../README.md)
+- add
+- backward
+- bucket
+- each
+- element
+- enum
+- enumerate
+- find
+- foreach
+- forward
+- index
+- item
+- iterate
+- iterator
+- list
+- lookup
+- pop
+- push
+- remove
+- repeat
+- reverse
+- rewind
+- slot
+
+[↵ back](../README.md)

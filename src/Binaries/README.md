@@ -1,5 +1,6 @@
 Binaries
-======
+========
 
-- [symbols](symbols.md)
-- [↵ back](../README.md)
+- symbols
+
+[↵ back](../README.md)
