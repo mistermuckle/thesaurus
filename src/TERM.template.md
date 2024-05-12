@@ -68,7 +68,7 @@ TERM
 -->
 
 <!--
-## Teoponyms
+## Toponyms
 
   - [TERM](TERM.md)
 -->

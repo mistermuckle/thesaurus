@@ -1,41 +1,50 @@
 Definitions
 ===========
 
-- **Antonym**
+  - **Antonym**
 
     a word that expresses a meaning opposed to the meaning of another word
 
-- **Heteronym**
+  - **Heteronym**
 
     two words are heteronyms if they are spelled the same way but differ in pronunciation
 
-- **Holonym**
+  - **Holonym**
 
     a word that names the whole of which a given word is a part
 
-[homonyms]:  https://en.wiktionary.org/wiki/homonym
-    "two words are homonyms if they are pronounced and spelled the same way but have different meanings"
+  - **Homonym**
 
-[hypernyms]:  https://en.wiktionary.org/wiki/hypernym
-    "words that are more generic than a given word"
+    two words are homonyms if they are pronounced and spelled the same way but have different meanings
 
-[hyponyms]:  https://en.wiktionary.org/wiki/hyponym
-    "words that are more specific than a given word"
+  - **Hypernym**
 
-[meronyms]:  https://en.wiktionary.org/wiki/meronym
-    "words that names a part of a larger whole"
+    a word that is more generic than a given word
 
-[metonyms]:  https://en.wiktionary.org/wiki/metonym
-    "words that denotes one thing but refers to a related thing"
+  - **Hyponym**
 
-[paronyms]:  https://en.wiktionary.org/wiki/paronym
-    "words that strongly resembles another word in spelling"
+    a word that is more specific than a given word
 
-[retronyms]:  https://en.wiktionary.org/wiki/retronym
-    "words introduced because an existing term has become inadequate"
+  - **Meronym**
 
-[synonyms]:  https://en.wiktionary.org/wiki/synonym
-    "two words that can be interchanged in a context are said to be synonymous relative to that context"
+    a word that names a part of a larger whole
 
-[troponyms]:  https://en.wiktionary.org/wiki/troponym
-    "words that denotes a manner of doing something"
+  - **Metonym**
+
+    a word that denotes one thing but refers to a related thing
+
+  - **Paronym**
+
+    a word that strongly resembles another word in spelling
+
+  - **Retronym**
+
+    a word introduced because an existing term has become inadequate
+
+  - **Synonym**
+
+    two words that can be interchanged in a context are said to be synonymous relative to that context
+
+  - **Troponym**
+
+    a word that denotes a manner of doing something
