@@ -1,5 +1,7 @@
 # Receiving
 
+## Verbs
+
   - fetch
   - get
   - grab

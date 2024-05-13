@@ -1,7 +1,21 @@
 # Memory and Garbage Collection
 
-  - address
+## Verbs
+
   - [allocate](allocate.md)
+  - dispose
+  - [free](free.md)
+  - invalidate
+  - relate
+  - [release](release.md)
+  - retain
+  - steal
+  - unlink
+  - unreference
+  
+## Nouns
+
+  - address
   - allocator
   - arena
   - block
@@ -9,23 +23,17 @@
   - capacity
   - chunk
   - context
-  - dispose
-  - [free](free.md)
-  - invalidate
   - link
   - memory
-  - new
   - pointer
   - pool
   - reference
-  - relate
-  - [release](release.md)
-  - retain
   - segment
   - size
-  - steal
   - storage
-  - unlink
-  - unreference
+
+## Adjectives
+
+  - new
 
 [↵ back](../README.md)

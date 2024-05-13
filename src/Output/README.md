@@ -1,5 +1,7 @@
 # Output
 
+## Verbs
+
   - display
   - echo
   - print

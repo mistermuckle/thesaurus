@@ -1,5 +1,7 @@
 # Comparing
 
+## Verbs
+
   - compare
   - [contains](contains.md)
   - difference

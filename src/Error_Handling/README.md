@@ -1,5 +1,7 @@
 # Error Handling
 
+## Verbs
+
   - assert
   - catch
   - debug

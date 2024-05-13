@@ -1,5 +1,7 @@
 # Destruction
 
+## Verbs
+
   - clean
   - cleanup
   - clear
@@ -8,7 +10,6 @@
   - delete
   - destroy
   - destruct
-  - destructor
   - dispose
   - drop
   - erase
@@ -25,5 +26,9 @@
   - uninstall
   - unlink
   - wipe
+
+## Nouns
+
+  - destructor
 
 [↵ back](../README.md)

@@ -1,12 +1,13 @@
 # Construction
 
+## Verbs
+
   - acquire
   - allocate
   - boot
   - bootstrap
   - build
   - construct
-  - constructor
   - create
   - declare
   - initialize
@@ -14,7 +15,14 @@
   - instantiate
   - load
   - make
-  - new
   - start
+  
+## Nouns
+
+  - constructor
+
+## Adjectives
+
+  - new
 
 [↵ back](../README.md)

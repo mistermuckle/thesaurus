@@ -1,5 +1,7 @@
 # Templates
 
+## Verbs
+
   - assign
   - display
   - render

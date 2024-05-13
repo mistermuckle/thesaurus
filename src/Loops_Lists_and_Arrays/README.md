@@ -1,27 +1,38 @@
 # Loops, Lists and Arrays
 
+## Verbs
+
   - [add](add.md)
-  - [backward](backward.md)
-  - [bucket](bucket.md)
-  - [each](each.md)
-  - [element](element.md)
-  - enum
   - enumerate
   - find
-  - [foreach](foreach.md)
-  - [forward](forward.md)
-  - [index](index.md)
-  - [item](item.md)
   - iterate
-  - iterator
-  - [list](list.md)
   - lookup
   - [pop](pop.md)
   - [push](push.md)
   - [remove](remove.md)
   - repeat
-  - [reverse](reverse.md)
   - rewind
+  
+## Nouns
+
+  - [bucket](bucket.md)
+  - [element](element.md)
+  - enum
+  - [index](index.md)
+  - [item](item.md)
+  - iterator
+  - [list](list.md)
   - [slot](slot.md)
+
+## Adjectives
+
+  - [each](each.md)
+  - [foreach](foreach.md)
+  
+## Adverbs
+
+  - [backward](backward.md)
+  - [forward](forward.md)
+  - [reverse](reverse.md)
 
 [↵ back](../README.md)

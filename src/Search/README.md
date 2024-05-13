@@ -1,18 +1,23 @@
 # Search
 
+## Verbs
+
   - extract
   - filter
   - find
-  - haystack
   - lookup
+  - read
+  - scan
+  - search
+  - seek
+  
+## Nouns
+
+  - haystack
   - match
   - needle
   - occurrence
   - offset
   - position
-  - read
-  - scan
-  - search
-  - seek
 
 [↵ back](../README.md)

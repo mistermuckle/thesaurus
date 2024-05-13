@@ -1,5 +1,7 @@
 # Serializing
 
+## Verbs
+
   - bundle
   - escape
   - obfuscate

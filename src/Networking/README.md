@@ -1,21 +1,26 @@
 # Networking
 
+## Verbs
+
   - accept
   - bind
   - chunk
-  - [connection](connection.md)
   - [download](download.md)
-  - [handshake](handshake.md)
-  - host
-  - IP
   - listen
-  - [packet](packet.md)
-  - [payload](payload.md)
   - [read](read.md)
   - [receive](receive.md)
   - [send](send.md)
-  - socket
   - [upload](upload.md)
   - [write](write.md)
+  
+## Nouns
+
+  - [connection](connection.md)
+  - [handshake](handshake.md)
+  - host
+  - IP
+  - [packet](packet.md)
+  - [payload](payload.md)
+  - socket
 
 [↵ back](../README.md)

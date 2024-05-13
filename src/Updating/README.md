@@ -1,5 +1,7 @@
 # Updating
 
+## Verbs
+
   - refresh
   - touch
   - update

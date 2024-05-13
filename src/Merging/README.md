@@ -1,5 +1,7 @@
 # Merging
 
+## Verbs
+
   - apply
   - combine
   - concatenate

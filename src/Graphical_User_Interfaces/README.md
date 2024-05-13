@@ -1,16 +1,21 @@
 # Graphical User Interfaces
 
+## Verbs
+
   - activate
-  - box
-  - dialog
   - draw
   - entry
   - expose
-  - geometry
   - hide
-  - option
   - paint
   - update
+  
+## Nouns
+
+  - box
+  - dialog
+  - geometry
+  - option
   - widget
 
 [↵ back](../README.md)

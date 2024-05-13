@@ -1,7 +1,12 @@
 # Math
 
-  - random
+## Verbs
+
   - randomize
   - round
+  
+## Adjectives
+
+  - random
 
 [↵ back](../README.md)

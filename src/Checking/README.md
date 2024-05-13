@@ -1,5 +1,7 @@
 # Checking
 
+## Verbs
+
   - can
   - has
   - is

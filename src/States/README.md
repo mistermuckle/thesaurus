@@ -1,5 +1,7 @@
 # States
 
+## Adjectives
+
   - attached
   - closed
   - connected

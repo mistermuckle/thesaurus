@@ -1,5 +1,7 @@
 # Compression
 
+## Verbs
+
   - compress
   - minimize
   - shorten

@@ -1,17 +1,25 @@
 # Processes
 
-  - connecting
+## Verbs
+
   - execute
-  - idling
-  - initializing
   - kill
   - launch
+  - restart
+  
+## Nouns
+
+  - process
+  
+## Adjectives
+
+  - connecting
+  - idling
+  - initializing
   - lingering
   - pending
-  - process
   - processing
   - [reading](reading.md)
-  - restart
   - waiting
   - [writing](writing.md)
 

@@ -1,5 +1,7 @@
 # Streams
 
+## Verbs
+
   - peek
   - rewind
   - tell

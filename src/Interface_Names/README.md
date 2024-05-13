@@ -1,8 +1,13 @@
 # Interface Names
 
+## Nouns
+
   - iterator
-  - observable
   - process
+  
+## Adjectives
+
+  - observable
   - serializable
 
 [↵ back](../README.md)

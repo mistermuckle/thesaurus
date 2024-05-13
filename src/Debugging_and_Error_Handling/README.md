@@ -1,5 +1,7 @@
 # Debugging and Error Handling
 
+## Nouns
+
   - bug
   - crash
   - error

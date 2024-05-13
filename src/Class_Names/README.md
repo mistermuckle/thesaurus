@@ -1,6 +1,7 @@
 # Class Names
 
-  - abstract
+## Nouns
+
   - batch
   - behavior
   - chain
@@ -36,5 +37,9 @@
   - storage
   - suite
   - utils
+  
+## Adjectives
+
+  - abstract
 
 [↵ back](../README.md)

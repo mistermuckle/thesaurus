@@ -1,31 +1,39 @@
 # Tasks and Operations
 
-  - action
-  - batch
-  - bulk
+## Verbs
+
   - continue
   - handle
   - hold
   - invoke
-  - job
   - launch
-  - mass
-  - operation
   - proceed
-  - process
-  - progress
   - redo
-  - request
   - reset
   - respond
   - restart
   - resume
-  - routine
   - run
   - start
   - stop
   - suspend
-  - task
   - undo
+
+## Nouns
+
+  - action
+  - batch
+  - job
+  - operation
+  - process
+  - progress
+  - request
+  - routine
+  - task
+
+## Adverbs
+
+  - bulk
+  - mass
 
 [↵ back](../README.md)

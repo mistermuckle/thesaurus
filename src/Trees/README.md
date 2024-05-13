@@ -1,8 +1,13 @@
 # Trees
 
-  - [child](child.md)
+## Verbs
+
   - [collapse](collapse.md)
   - [expand](expand.md)
+  
+## Nouns
+
+  - [child](child.md)
   - [node](node.md)
   - [parent](parent.md)
   - path
