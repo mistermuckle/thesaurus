@@ -5,11 +5,14 @@
   - argument
   - attribute
   - constant
-  - default
   - function
   - identifier
   - parameter
   - specifier
   - variable
+
+## Adjectives
+
+  - default
 
 [↵ back](../README.md)
