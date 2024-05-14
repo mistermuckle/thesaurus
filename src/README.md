@@ -1,9 +1,27 @@
+ ## The Basics
+ 
+   - [General](General/README.md)
+   - [Entities](Entities/README.md)
+   - [Storage](Storage/README.md)
+   - [Tasks and Operations](Tasks_and_Operations/README.md)
+
+## Programming in General
+
+   - [Language Features](Language_Features/README.md)
+
+## Object-Oriented Programming
+
+   - [Object Orientation](Object_Orientation/README.md)
+   - [Class Names](Class_Names/README.md)
+   - [Interface Names](Interface_Names/README.md)
+
+-----
+
    - [ACL](ACL/README.md)
    - [Assigning](Assigning/README.md)
    - [Binaries](Binaries/README.md)
    - [Characters and Strings](Characters_and_Strings/README.md)
    - [Checking](Checking/README.md)
-   - [Class Names](Class_Names/README.md)
    - [Clusters and Collections](Clusters_and_Collections/README.md)
    - [Comparing](Comparing/README.md)
    - [Compression](Compression/README.md)
@@ -15,15 +33,11 @@
    - [Destruction](Destruction/README.md)
    - [Duplication](Duplication/README.md)
    - [Encoding](Encoding/README.md)
-   - [Entities](Entities/README.md)
    - [Error Handling](Error_Handling/README.md)
    - [Event Handling](Event_Handling/README.md)
    - [File](File/README.md)
-   - [General](General/README.md)
    - [Graphical User Interfaces](Graphical_User_Interfaces/README.md)
-   - [Interface Names](Interface_Names/README.md)
    - [Iterating](Iterating/README.md)
-   - [Language Features](Language_Features/README.md)
    - [Links](Links/README.md)
    - [Loops Lists and Arrays](Loops_Lists_and_Arrays/README.md)
    - [Math](Math/README.md)
@@ -31,7 +45,6 @@
    - [Merging](Merging/README.md)
    - [Messaging](Messaging/README.md)
    - [Networking](Networking/README.md)
-   - [Object Orientation](Object_Orientation/README.md)
    - [Output](Output/README.md)
    - [Positions and Lengths](Positions_and_Lengths/README.md)
    - [Processes](Processes/README.md)
@@ -42,10 +55,8 @@
    - [Search](Search/README.md)
    - [Serializing](Serializing/README.md)
    - [States](States/README.md)
-   - [Storage](Storage/README.md)
    - [Streams](Streams/README.md)
    - [Tables](Tables/README.md)
-   - [Tasks and Operations](Tasks_and_Operations/README.md)
    - [Templates](Templates/README.md)
    - [Test Suites](Test_Suites/README.md)
    - [Transmission](Transmission/README.md)

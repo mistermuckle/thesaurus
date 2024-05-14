@@ -1,8 +1,3 @@
-# value
-
-## Hypernyms
-
-  - Entities : [entity](../Entities/entity.md)
-  
+# [General][1] : value
 
 [1]: README.md

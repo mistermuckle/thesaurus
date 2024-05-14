@@ -22,7 +22,6 @@
 ## Nouns
 
   - [action](action.md)
-  - [batch](batch.md)
   - [job](job.md)
   - [operation](operation.md)
   - [process](process.md)
@@ -33,6 +32,7 @@
 
 ## Adverbs
 
+  - [batch](batch.md)
   - [bulk](bulk.md)
   - [mass](mass.md)
 
