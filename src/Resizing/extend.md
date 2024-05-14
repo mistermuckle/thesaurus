@@ -5,4 +5,4 @@
   - [grow](grow.md)
   - [resize](resize.md)
 
-[↵ back](README.md)
+[1]: README.md

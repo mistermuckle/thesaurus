@@ -5,4 +5,4 @@
   - [method](method.md)
   - [property](property.md)
 
-[↵ back](README.md)
+[1]: README.md

@@ -6,4 +6,4 @@
   - [minute](minute.md)
   - [timezone](timezone.md)
 
-[↵ back](README.md)
+[1]: README.md

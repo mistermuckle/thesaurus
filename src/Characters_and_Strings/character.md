@@ -1,7 +1,7 @@
-# character
+# [Characters and Strings][1] : character
 
 ## Holonyms
 
   - [string](string.md)
 
-[↵ back](README.md)
+[1]: README.md

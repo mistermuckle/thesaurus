@@ -2,6 +2,6 @@
 
 ## Nouns
 
-  - symbols
+  - [symbols](symbols.md)
 
 [↵ back](../README.md)

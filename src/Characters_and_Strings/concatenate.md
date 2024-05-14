@@ -1,4 +1,4 @@
-# concatenate
+# [Characters and Strings][1] : concatenate
 
 ## Hypernyms
 
@@ -8,4 +8,4 @@
 
   - [append](./append.md)
 
-[↵ back](README.md)
+[1]: README.md

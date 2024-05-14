@@ -2,9 +2,9 @@
 
 ## Verbs
 
-  - compare
+  - [compare](compare.md)
   - [contains](contains.md)
-  - difference
+  - [difference](difference.md)
   - [equals](equals.md)
   - [matches](matches.md)
 

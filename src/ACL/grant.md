@@ -1,7 +1,7 @@
-# grant
+# [ACL][1] : grant
 
 ## Antonyms
 
   - [deny](deny.md)
 
-[↵ back](README.md)
+[1]: README.md

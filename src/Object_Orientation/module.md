@@ -5,4 +5,4 @@
   - [class](class.md)
   - [interface](interface.md)
 
-[↵ back](README.md)
+[1]: README.md

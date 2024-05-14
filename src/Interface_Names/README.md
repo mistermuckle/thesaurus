@@ -2,12 +2,12 @@
 
 ## Nouns
 
-  - iterator
-  - process
+  - [iterator](iterator.md)
+  - [process](process.md)
   
 ## Adjectives
 
-  - observable
-  - serializable
+  - [observable](observable.md)
+  - [serializable](serializable.md)
 
 [↵ back](../README.md)

@@ -2,10 +2,10 @@
 
 ## Verbs
 
-  - apply
-  - combine
-  - concatenate
-  - join
-  - merge
+  - [apply](apply.md)
+  - [combine](combine.md)
+  - [concatenate](concatenate.md)
+  - [join](join.md)
+  - [merge](merge.md)
 
 [↵ back](../README.md)

@@ -2,20 +2,20 @@
 
 ## Verbs
 
-  - activate
-  - draw
-  - entry
-  - expose
-  - hide
-  - paint
-  - update
+  - [activate](activate.md)
+  - [draw](draw.md)
+  - [entry](entry.md)
+  - [expose](expose.md)
+  - [hide](hide.md)
+  - [paint](paint.md)
+  - [update](update.md)
   
 ## Nouns
 
-  - box
-  - dialog
-  - geometry
-  - option
-  - widget
+  - [box](box.md)
+  - [dialog](dialog.md)
+  - [geometry](geometry.md)
+  - [option](option.md)
+  - [widget](widget.md)
 
 [↵ back](../README.md)

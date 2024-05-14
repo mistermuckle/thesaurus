@@ -2,7 +2,7 @@
 
 ## Nouns
 
-  - cookie
-  - session
+  - [cookie](cookie.md)
+  - [session](session.md)
 
 [↵ back](../README.md)

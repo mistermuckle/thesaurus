@@ -2,11 +2,11 @@
 
 ## Nouns
 
-  - capacity
-  - count
-  - length
-  - offset
-  - position
-  - size
+  - [capacity](capacity.md)
+  - [count](count.md)
+  - [length](length.md)
+  - [offset](offset.md)
+  - [position](position.md)
+  - [size](size.md)
 
 [↵ back](../README.md)

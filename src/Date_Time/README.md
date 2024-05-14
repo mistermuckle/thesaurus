@@ -4,7 +4,7 @@
 
   - [date](date.md)
   - [day](day.md)
-  - difference
+  - [difference](difference.md)
   - [hour](hour.md)
   - [hours](hours.md)
   - [minute](minute.md)

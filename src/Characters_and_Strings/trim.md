@@ -1,7 +1,7 @@
-# trim
+# [Characters and Strings][1] : trim
 
 ## Hypernyms
 
   - [resize](./resize.md)
 
-[↵ back](README.md)
+[1]: README.md

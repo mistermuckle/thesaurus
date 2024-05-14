@@ -5,4 +5,4 @@
   - [copy](copy.md)
   - [duplicate](duplicate.md)
   
-[↵ back](README.md)
+[1]: README.md

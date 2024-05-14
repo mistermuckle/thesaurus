@@ -2,11 +2,11 @@
 
 ## Verbs
 
-  - read
-  - save
+  - [read](read.md)
+  - [save](save.md)
   
 ## Nouns
 
-  - store
+  - [store](store.md)
 
 [↵ back](../README.md)

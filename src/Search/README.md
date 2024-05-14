@@ -2,22 +2,22 @@
 
 ## Verbs
 
-  - extract
-  - filter
-  - find
-  - lookup
-  - read
-  - scan
-  - search
-  - seek
+  - [extract](extract.md)
+  - [filter](filter.md)
+  - [find](find.md)
+  - [lookup](lookup.md)
+  - [read](read.md)
+  - [scan](scan.md)
+  - [search](search.md)
+  - [seek](seek.md)
   
 ## Nouns
 
-  - haystack
-  - match
-  - needle
-  - occurrence
-  - offset
-  - position
+  - [haystack](haystack.md)
+  - [match](match.md)
+  - [needle](needle.md)
+  - [occurrence](occurrence.md)
+  - [offset](offset.md)
+  - [position](position.md)
 
 [↵ back](../README.md)

@@ -2,8 +2,8 @@
 
 ## Nouns
 
-  - buffer
-  - pointer
-  - string
+  - [buffer](buffer.md)
+  - [pointer](pointer.md)
+  - [string](string.md)
 
 [↵ back](../README.md)

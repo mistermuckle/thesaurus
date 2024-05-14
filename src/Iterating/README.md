@@ -20,6 +20,6 @@
   - [foreach](foreach.md)
   - [next](next.md)
   - [previous](previous.md)
-  - valid
+  - [valid](valid.md)
 
 [↵ back](../README.md)

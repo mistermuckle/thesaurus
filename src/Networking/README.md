@@ -2,11 +2,11 @@
 
 ## Verbs
 
-  - accept
-  - bind
-  - chunk
+  - [accept](accept.md)
+  - [bind](bind.md)
+  - [chunk](chunk.md)
   - [download](download.md)
-  - listen
+  - [listen](listen.md)
   - [read](read.md)
   - [receive](receive.md)
   - [send](send.md)
@@ -17,10 +17,10 @@
 
   - [connection](connection.md)
   - [handshake](handshake.md)
-  - host
-  - IP
+  - [host](host.md)
+  - [IP](IP.md)
   - [packet](packet.md)
   - [payload](payload.md)
-  - socket
+  - [socket](socket.md)
 
 [↵ back](../README.md)

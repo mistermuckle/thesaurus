@@ -2,11 +2,11 @@
 
 ## Verbs
 
-  - randomize
-  - round
+  - [randomize](randomize.md)
+  - [round](round.md)
   
 ## Adjectives
 
-  - random
+  - [random](random.md)
 
 [↵ back](../README.md)

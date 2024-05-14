@@ -1,4 +1,4 @@
-# string
+# [Characters and Strings][1] : string
 
 ## Hypernyms
 
@@ -13,4 +13,4 @@
 
   - [character](./character.md)
 
-[↵ back](README.md)
+[1]: README.md

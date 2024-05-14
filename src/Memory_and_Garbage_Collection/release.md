@@ -7,3 +7,5 @@
 ## Synonyms
 
   - [free](free.md)
+
+[1]: README.md

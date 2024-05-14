@@ -3,17 +3,17 @@
 ## Verbs
 
   - [append](append.md)
-  - lock
-  - open
+  - [lock](lock.md)
+  - [open](open.md)
   - [read](read.md)
-  - unlock
+  - [unlock](unlock.md)
   - [write](write.md)
   
 ## Nouns
 
   - [directory](directory.md)
   - [file](file.md)
-  - I/O
-  - path
+  - [I/O](I/O.md)
+  - [path](path.md)
 
 [↵ back](../README.md)

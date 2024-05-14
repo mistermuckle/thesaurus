@@ -2,8 +2,8 @@
 
 ## Verbs
 
-  - peek
-  - rewind
-  - tell
+  - [peek](peek.md)
+  - [rewind](rewind.md)
+  - [tell](tell.md)
 
 [↵ back](../README.md)

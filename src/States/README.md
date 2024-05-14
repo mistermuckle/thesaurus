@@ -2,19 +2,19 @@
 
 ## Adjectives
 
-  - attached
-  - closed
-  - connected
-  - hidden
-  - idle
-  - initialized
-  - listening
+  - [attached](attached.md)
+  - [closed](closed.md)
+  - [connected](connected.md)
+  - [hidden](hidden.md)
+  - [idle](idle.md)
+  - [initialized](initialized.md)
+  - [listening](listening.md)
   - [mutable](mutable.md)
-  - paused
+  - [paused](paused.md)
   - [readable](readable.md)
-  - stalled
-  - transient
-  - volatile
+  - [stalled](stalled.md)
+  - [transient](transient.md)
+  - [volatile](volatile.md)
   - [writable](writable.md)
 
 [↵ back](../README.md)

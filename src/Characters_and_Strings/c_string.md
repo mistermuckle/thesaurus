@@ -1,4 +1,4 @@
-# C string
+# [Characters and Strings][1] : C string
 
 ## Hypernyms
 
@@ -8,4 +8,4 @@
 
   - [zero-terminated string](zero-terminated_string.md)
 
-[↵ back](README.md)
+[1]: README.md

@@ -1,8 +1,8 @@
-# accumulate
+# [Clusters and Collections][1] : accumulate
 
 ## Synonyms
 
   - [aggregate](./aggregate.md)
   - [collect](./collect.md)
 
-[↵ back](README.md)
+[1]: README.md

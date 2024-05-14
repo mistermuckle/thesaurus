@@ -10,6 +10,6 @@
   - [child](child.md)
   - [node](node.md)
   - [parent](parent.md)
-  - path
+  - [path](path.md)
 
 [↵ back](../README.md)

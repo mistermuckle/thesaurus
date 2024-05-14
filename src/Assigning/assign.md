@@ -1,7 +1,7 @@
-# assign
+# [Assigning][1] : assign
 
 ## Synonyms
 
   - [set](set.md)
 
-[↵ back](README.md)
+[1]: README.md

@@ -1,7 +1,11 @@
 # file
 
+## Hypernyms
+
+  - Trees : [node](../Trees/node.md)
+
 ## Hyponyms
 
   - [directory](directory.md)
 
-[↵ back](README.md)
+[1]: README.md
