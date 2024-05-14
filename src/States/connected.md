@@ -1,11 +1,7 @@
-# [States][1] : mutable
+# [States][1] : connected
 
 ## Hypernyms
 
   - General : [value](../General/value.md)
-
-## Hyponyms
-
-  - [writable](writable.md)
 
 [1]: README.md
