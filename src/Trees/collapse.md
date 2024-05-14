@@ -1,4 +1,4 @@
-# collapse
+# [Trees][1] : collapse
 
 ## Antonyms
 

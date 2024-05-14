@@ -1,4 +1,4 @@
-# duplicate
+# [Duplication][1] : duplicate
 
 ## Synonyms
 

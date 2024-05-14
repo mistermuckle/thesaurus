@@ -1,4 +1,4 @@
-# output
+# [Return Values][1] : output
 
 ## Synonyms
 

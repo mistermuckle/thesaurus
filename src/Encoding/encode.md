@@ -1,4 +1,4 @@
-# encode
+# [Encoding][1] : encode
 
 ## Antonyms
 

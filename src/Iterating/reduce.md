@@ -1,4 +1,4 @@
-# reduce
+# [Iterating][1] : reduce
 
 ## Hypernyms
 

@@ -1,4 +1,4 @@
-# transmit
+# [Transmission][1] : transmit
 
 ## Hyponyms
 

@@ -1,4 +1,4 @@
-# map (verb)
+# [Iterating][1] : map (verb)
 
 ## Homonyms
 

@@ -1,4 +1,4 @@
-# enlarge
+# [Resizing][1] : enlarge
 
 ## Hyponyms
 

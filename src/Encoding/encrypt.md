@@ -1,4 +1,4 @@
-# encrypt
+# [Encoding][1] : encrypt
 
 ## Antonyms
 

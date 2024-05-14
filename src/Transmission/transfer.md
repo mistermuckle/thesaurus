@@ -1,6 +1,6 @@
-# transfer
+# [Transmission][1] : transfer
 
-# Hypernyms
+# [Transmission][1] : Hypernyms
 
   - [transmit](transmit.md)
 
