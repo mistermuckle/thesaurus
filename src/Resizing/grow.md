@@ -1,4 +1,4 @@
-# grow
+# [Resizing][1] : grow
 
 ## Hyponyms
 

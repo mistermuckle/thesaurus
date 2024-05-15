@@ -1,4 +1,4 @@
-# manager
+# [Roles][1] : manager
 
 ## Hypernyms
 

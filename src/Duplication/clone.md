@@ -1,4 +1,4 @@
-# clone
+# [Duplication][1] : clone
 
 ## Synonyms
 

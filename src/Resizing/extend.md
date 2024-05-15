@@ -1,4 +1,4 @@
-# extend
+# [Resizing][1] : extend
 
 ## Hypernyms
 

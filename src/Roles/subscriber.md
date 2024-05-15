@@ -1,4 +1,4 @@
-# subscriber
+# [Roles][1] : subscriber
 
 ## Hypernyms
 

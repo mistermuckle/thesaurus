@@ -1,4 +1,4 @@
-# equals
+# [Comparing][1] : equals
 
 ## Hypernyms
 

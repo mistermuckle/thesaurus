@@ -1,4 +1,4 @@
-# each
+# [Iterating][1] : each
 
 ## Synonyms
 

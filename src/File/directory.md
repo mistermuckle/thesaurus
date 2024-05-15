@@ -1,4 +1,4 @@
-# directory
+# [File][1] : directory
 
 ## Hypernyms
 

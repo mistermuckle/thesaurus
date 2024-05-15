@@ -1,4 +1,4 @@
-# foreach
+# [Iterating][1] : foreach
 
 ## Synonyms
 

@@ -1,4 +1,4 @@
-# deliver
+# [Transmission][1] : deliver
 
 ## Holonyms
 

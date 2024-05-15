@@ -1,4 +1,8 @@
-# mutable
+# [States][1] : mutable
+
+## Hypernyms
+
+  - General : [value](../General/value.md)
 
 ## Hyponyms
 

@@ -1,4 +1,8 @@
-# readable
+# [States][1] : readable
+
+## Hypernyms
+
+  - General : [value](../General/value.md)
 
 ## Antonyms
 

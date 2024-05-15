@@ -1,4 +1,4 @@
-# editor
+# [Roles][1] : editor
 
 ## Hypernyms
 

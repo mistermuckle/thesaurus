@@ -1,4 +1,4 @@
-# copy
+# [Duplication][1] : copy
 
 ## Synonyms
 

@@ -1,4 +1,4 @@
-# contains
+# [Comparing][1] : contains
 
 ## Hypernyms
 
