@@ -3,7 +3,7 @@
 ## Verbs
 
   - [iterate](iterate.md)
-  - [map](map_v.md) (verb)
+  - [map](map_v.md)
   - [reduce](reduce.md)
   - [walk](walk.md)
   

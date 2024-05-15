@@ -5,6 +5,10 @@
   - [list](list.md)
   - [map](map_n.md)
 
+## Homonyms
+
+  - General : [value](../../The_Basics/General/value.md)
+
 ## Hypernyms
 
   - Storage : [store](../../The_Basics/Storage/store.md)

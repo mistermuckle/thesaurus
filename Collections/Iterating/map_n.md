@@ -6,7 +6,7 @@
   
 ## Hypernyms
 
-  - [list](list.md)
+  - Entities : [group](../../The_Basics/Entities.group.md)
 
 ## Meronyms
 
