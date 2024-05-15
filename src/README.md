@@ -8,6 +8,8 @@
 ## Programming in General
 
    - [Language Features](Language_Features/README.md)
+   - [Assigning](Assigning/README.md)
+   - [Return Values](Return_Values/README.md)
 
 ## Object-Oriented Programming
 
@@ -18,7 +20,6 @@
 -----
 
    - [ACL](ACL/README.md)
-   - [Assigning](Assigning/README.md)
    - [Binaries](Binaries/README.md)
    - [Characters and Strings](Characters_and_Strings/README.md)
    - [Checking](Checking/README.md)
@@ -50,7 +51,6 @@
    - [Processes](Processes/README.md)
    - [Receiving](Receiving/README.md)
    - [Resizing](Resizing/README.md)
-   - [Return Values](Return_Values/README.md)
    - [Roles](Roles/README.md)
    - [Search](Search/README.md)
    - [Serializing](Serializing/README.md)
