@@ -1,4 +1,4 @@
-# File
+# [Home][1] : File
 
 ## Verbs
 
@@ -13,7 +13,7 @@
 
   - [directory](directory.md)
   - [file](file.md)
-  - [I/O](I/O.md)
+  - [I/O](io.md)
   - [path](path.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

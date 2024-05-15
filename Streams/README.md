@@ -1,4 +1,4 @@
-# Streams
+# [Home][1] : Streams
 
 ## Verbs
 
@@ -6,4 +6,4 @@
   - [rewind](rewind.md)
   - [tell](tell.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

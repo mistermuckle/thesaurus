@@ -1,4 +1,4 @@
-# Graphical User Interfaces
+# [Home][1] : Graphical User Interfaces
 
 ## Verbs
 
@@ -18,4 +18,4 @@
   - [option](option.md)
   - [widget](widget.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

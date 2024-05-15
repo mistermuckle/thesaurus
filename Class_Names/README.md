@@ -1,4 +1,4 @@
-# Class Names
+# [Home][1] : Class Names
 
 ## Nouns
 
@@ -42,4 +42,4 @@
 
   - [abstract](abstract.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

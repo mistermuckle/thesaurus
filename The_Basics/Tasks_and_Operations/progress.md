@@ -7,6 +7,6 @@
 
 ## Hypernyms
 
-  - General : [value](/The_Basics/General/value.md)
+  - General : [value](../General/value.md)
 
 [1]: README.md

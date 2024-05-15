@@ -1,4 +1,4 @@
-# Object Orientation
+# [Home][1] : Object Orientation
 
 ## Verbs
 
@@ -33,4 +33,4 @@
   - [published](published.md)
   - [shared](shared.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

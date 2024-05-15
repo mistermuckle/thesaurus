@@ -1,4 +1,4 @@
-# Checking
+# [Home][1] : Checking
 
 ## Verbs
 
@@ -6,4 +6,4 @@
   - [has](has.md)
   - [is](is.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

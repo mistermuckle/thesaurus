@@ -35,4 +35,4 @@
   - [forward](forward.md)
   - [reverse](reverse.md)
 
-[1]: /README.md
+[1]: ../../README.md

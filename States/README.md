@@ -1,4 +1,4 @@
-# States
+# [Home][1] : States
 
 ## Adjectives
 
@@ -17,4 +17,4 @@
   - [volatile](volatile.md)
   - [writable](writable.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

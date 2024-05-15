@@ -1,4 +1,4 @@
-# Search
+# [Home][1] : Search
 
 ## Verbs
 
@@ -20,4 +20,4 @@
   - [offset](offset.md)
   - [position](position.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

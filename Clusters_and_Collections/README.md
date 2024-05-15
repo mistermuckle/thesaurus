@@ -1,4 +1,4 @@
-# Clusters and Collections
+# [Home][1] : Clusters and Collections
 
 ## Verbs
 
@@ -6,4 +6,4 @@
   - [aggregate](aggregate.md)
   - [collect](collect.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

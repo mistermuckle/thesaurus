@@ -1,4 +1,4 @@
-# Output
+# [Home][1] : Output
 
 ## Verbs
 
@@ -7,4 +7,4 @@
   - [print](print.md)
   - [write](write.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

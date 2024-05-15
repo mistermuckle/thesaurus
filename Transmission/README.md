@@ -1,4 +1,4 @@
-# Transmission
+# [Home][1] : Transmission
 
 ## Verbs
 
@@ -7,4 +7,4 @@
   - [transfer](transfer.md)
   - [transmit](transmit.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

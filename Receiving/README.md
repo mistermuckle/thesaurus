@@ -1,4 +1,4 @@
-# Receiving
+# [Home][1] : Receiving
 
 ## Verbs
 
@@ -11,4 +11,4 @@
   - [request](request.md)
   - [retrieve](retrieve.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

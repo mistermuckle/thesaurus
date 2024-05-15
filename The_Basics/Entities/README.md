@@ -1,4 +1,4 @@
-# Entities
+# [Home][1] : Entities
 
 ## Nouns
 
@@ -10,4 +10,4 @@
   - [session](session.md)
   - [transaction](transaction.md)
 
-[↵ back](/README.md)
+[1]: ../../README.md

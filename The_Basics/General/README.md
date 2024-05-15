@@ -1,8 +1,8 @@
-# General
+# [Home][1] : General
 
 ## Nouns
 
   - [environment](environment.md)
   - [value](value.md)
 
-[↵ back](/README.md)
+[1]: ../../README.md

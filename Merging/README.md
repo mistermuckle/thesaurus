@@ -1,4 +1,4 @@
-# Merging
+# [Home][1] : Merging
 
 ## Verbs
 
@@ -8,4 +8,4 @@
   - [join](join.md)
   - [merge](merge.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

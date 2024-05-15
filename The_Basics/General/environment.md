@@ -2,6 +2,6 @@
 
 ## Hypernyms
 
-  - Entities : [context](/The_Basics/Entities/context.md)
+  - Entities : [context](../../The_Basics/Entities/context.md)
 
 [1]: README.md

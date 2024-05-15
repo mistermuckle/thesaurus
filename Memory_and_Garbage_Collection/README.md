@@ -1,4 +1,4 @@
-# Memory and Garbage Collection
+# [Home][1] : Memory and Garbage Collection
 
 ## Verbs
 
@@ -36,4 +36,4 @@
 
   - [new](new.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

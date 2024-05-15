@@ -1,4 +1,4 @@
-# Updating
+# [Home][1] : Updating
 
 ## Verbs
 
@@ -7,4 +7,4 @@
   - [update](update.md)
   - [upgrade](upgrade.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

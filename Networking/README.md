@@ -1,4 +1,4 @@
-# Networking
+# [Home][1] : Networking
 
 ## Verbs
 
@@ -23,4 +23,4 @@
   - [payload](payload.md)
   - [socket](socket.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

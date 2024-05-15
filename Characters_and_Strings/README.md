@@ -1,4 +1,4 @@
-# Characters and Strings
+# [Home][1] : Characters and Strings
 
 ## Verbs
 
@@ -19,4 +19,4 @@
   - [string](string.md)
   - [zero-terminated string](zero-terminated_string.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

@@ -2,7 +2,7 @@
 
 ## Hypernyms
 
-  - Trees : [node](/Trees/node.md)
+  - Trees : [node](../../Trees/node.md)
 
 ## Hyponyms
 

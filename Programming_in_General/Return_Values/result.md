@@ -2,11 +2,11 @@
 
 ## Holonyms
 
-  - Language Features : [function](/Programming_in_General/Language_Features/function.md)
+  - Language Features : [function](../Language_Features/function.md)
 
 ## Hypernyms
 
-  - General : [value](/The_Basics/General/value.md)
+  - General : [value](../../The_Basics/General/value.md)
 
 ## Synonyms
 

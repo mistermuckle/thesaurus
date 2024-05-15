@@ -1,8 +1,8 @@
-# Links
+# [Home][1] : Links
 
 ## Adjectives
 
   - [next](next.md)
   - [previous](previous.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

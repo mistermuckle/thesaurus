@@ -5,4 +5,4 @@
   - [output](output.md)
   - [result](result.md)
 
-[1]: /README.md
+[1]: ../../README.md

@@ -2,7 +2,7 @@
 
 ## Hypernyms
 
-  - Entities : [entity](/The_Basics/Entities/entity.md)
+  - Entities : [entity](../Entities/entity.md)
 
 ## Hyponyms
 
@@ -10,7 +10,7 @@
   - [process](process.md)
   - [routine](routine.md)
   - [task](task.md)
-  - Language Features : [function](/Programming_in_General/Language_Features/function.md)
+  - Language Features : [function](../../Programming_in_General/Language_Features/function.md)
 
 ## Synonyms
 

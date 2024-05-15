@@ -1,4 +1,4 @@
-# Comparing
+# [Home][1] : Comparing
 
 ## Verbs
 
@@ -8,4 +8,4 @@
   - [equals](equals.md)
   - [matches](matches.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

@@ -8,10 +8,10 @@
 ## Meronyms
 
   - [progress](progress.md)
-  - States : [idle](/States/idle.md)
-  - States : [initialized](/States/initialized.md)
-  - States : [paused](/States/paused.md)
-  - States : [stalled](/States/stalled.md)
+  - States : [idle](../../States/idle.md)
+  - States : [initialized](../../States/initialized.md)
+  - States : [paused](../../States/paused.md)
+  - States : [stalled](../../States/stalled.md)
 
 ## Synonyms
 

@@ -1,4 +1,4 @@
-# Compression
+# [Home][1] : Compression
 
 ## Verbs
 
@@ -7,4 +7,4 @@
   - [shorten](shorten.md)
   - [shrink](shrink.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

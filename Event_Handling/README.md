@@ -1,4 +1,4 @@
-# Event Handling
+# [Home][1] : Event Handling
 
 ## Verbs
 
@@ -30,4 +30,4 @@
   - [signal](signal.md)
   - [subscriber](subscriber.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

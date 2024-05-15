@@ -1,4 +1,4 @@
-# Error Handling
+# [Home][1] : Error Handling
 
 ## Verbs
 
@@ -12,4 +12,4 @@
   - [throw](throw.md)
   - [try](try.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

@@ -1,4 +1,4 @@
-# Trees
+# [Home][1] : Trees
 
 ## Verbs
 
@@ -12,4 +12,4 @@
   - [parent](parent.md)
   - [path](path.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

@@ -1,4 +1,4 @@
-# Encoding
+# [Home][1] : Encoding
 
 ## Verbs
 
@@ -8,4 +8,4 @@
   - [encrypt](encrypt.md)
   - [mangle](mangle.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

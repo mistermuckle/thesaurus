@@ -1,4 +1,4 @@
-# Templates
+# [Home][1] : Templates
 
 ## Verbs
 
@@ -6,4 +6,4 @@
   - [display](display.md)
   - [render](render.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

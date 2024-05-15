@@ -1,4 +1,4 @@
-# Destruction
+# [Home][1] : Destruction
 
 ## Verbs
 
@@ -31,4 +31,4 @@
 
   - [destructor](destructor.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

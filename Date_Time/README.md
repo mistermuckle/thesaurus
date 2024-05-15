@@ -1,4 +1,4 @@
-# Date/Time
+# [Home][1] : Date/Time
 
 ## Nouns
 
@@ -14,4 +14,4 @@
   - [timezone](timezone.md)
   - [year](year.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

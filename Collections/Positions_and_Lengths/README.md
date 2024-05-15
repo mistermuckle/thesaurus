@@ -9,4 +9,4 @@
   - [position](position.md)
   - [size](size.md)
 
-[1]: /README.md
+[1]: ../../README.md

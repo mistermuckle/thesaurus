@@ -1,4 +1,4 @@
-# Data Types and Structures
+# [Home][1] : Data Types and Structures
 
 ## Nouns
 
@@ -6,4 +6,4 @@
   - [pointer](pointer.md)
   - [string](string.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

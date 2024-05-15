@@ -1,4 +1,4 @@
-# Math
+# [Home][1] : Math
 
 ## Verbs
 
@@ -9,4 +9,4 @@
 
   - [random](random.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

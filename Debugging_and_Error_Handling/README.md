@@ -1,4 +1,4 @@
-# Debugging and Error Handling
+# [Home][1] : Debugging and Error Handling
 
 ## Nouns
 
@@ -11,4 +11,4 @@
   - [priority](priority.md)
   - [status](status.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

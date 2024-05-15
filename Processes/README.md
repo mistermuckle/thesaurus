@@ -1,4 +1,4 @@
-# Processes
+# [Home][1] : Processes
 
 ## Verbs
 
@@ -23,4 +23,4 @@
   - [waiting](waiting.md)
   - [writing](writing.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

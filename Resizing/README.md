@@ -1,4 +1,4 @@
-# Resizing
+# [Home][1] : Resizing
 
 ## Verbs
 
@@ -7,4 +7,4 @@
   - [grow](grow.md)
   - [resize](resize.md)
 
-[↵ back](/README.md)
+[1]: ../README.md

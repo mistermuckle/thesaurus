@@ -22,4 +22,4 @@
   - [previous](previous.md)
   - [valid](valid.md)
 
-[1]: /README.md
+[1]: ../../README.md
