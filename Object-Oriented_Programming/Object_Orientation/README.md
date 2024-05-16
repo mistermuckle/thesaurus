@@ -33,4 +33,4 @@
   - [published](published.md)
   - [shared](shared.md)
 
-[1]: ../README.md
+[1]: ../../README.md

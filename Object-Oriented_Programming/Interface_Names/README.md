@@ -10,4 +10,4 @@
   - [observable](observable.md)
   - [serializable](serializable.md)
 
-[1]: ../README.md
+[1]: ../../README.md

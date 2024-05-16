@@ -3,6 +3,10 @@
 ## Holonyms
 
   - [list](list.md)
+  
+## Hypernyms
+
+  - Storage : [store](../../The_Basics/Storage/store.md)
 
 ## Meronyms
 

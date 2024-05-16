@@ -19,9 +19,9 @@
 
 ## Object-Oriented Programming
 
-   - [Object Orientation](Object_Orientation/README.md)
-   - [Class Names](Class_Names/README.md)
-   - [Interface Names](Interface_Names/README.md)
+   - [Object Orientation](Object-Oriented_Programming/Object_Orientation/README.md)
+   - [Class Names](Object-Oriented_Programming/Class_Names/README.md)
+   - [Interface Names](Object-Oriented_Programming/Interface_Names/README.md)
 
 -----
 

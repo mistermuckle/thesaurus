@@ -11,5 +11,6 @@
 ## Meronyms
 
   - [value](value.md)
+  - [iterate](iterate.md)
 
 [1]: README.md

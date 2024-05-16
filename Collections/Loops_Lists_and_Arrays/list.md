@@ -1,15 +1,16 @@
 # [Loops Lists and Arrays][1] : list
 
-## Holonyms
+## Hypernyms
 
-  - [list](#)
+  - Entities : [group](../../The_Basics/Entities/group.md)
   
 ## Meronyms
 
   - [bucket](bucket.md)
+  - [each](each)
   - [element](element.md)
+  - [foreach](foreach)
   - [item](item.md)
-  - [list](#)
   - [slot](slot.md)
   
 [1]: README.md

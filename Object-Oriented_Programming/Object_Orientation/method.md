@@ -1,16 +1,8 @@
-# [Iterating][1] : foreach
+# [Object Orientation][1] : method
 
 ## Hypernyms
 
-  - [iterate](iterate.md)
-  - [walk](walk.md)
-
-## Meronyms
-
+  - [member](member.md)
   - Language Features : [function](../../Programming_in_General/Language_Features/function.md)
-
-## Synonyms
-
-  - [each](each.md)
 
 [1]: README.md

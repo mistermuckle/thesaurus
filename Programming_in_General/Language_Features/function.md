@@ -5,6 +5,10 @@
   - Tasks and Operations : [action](../../The_Basics/Tasks_and_Operations/action.md)
   - Tasks and Operations : [operation](../../The_Basics/Tasks_and_Operations/operation.md)
   
+## Hyponyms
+
+  - Object Orientation : [method](../../Object-Oriented_Programming/Object_Orientation/method.md)
+  
 ## Meronyms
 
   - [argument](argument.md)

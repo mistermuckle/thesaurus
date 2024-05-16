@@ -1,4 +1,4 @@
-# [Iterating][1] : map (noun)
+# [Iterating][1] : map
 
 ## Homonyms
 
@@ -6,11 +6,12 @@
   
 ## Hypernyms
 
-  - Entities : [group](../../The_Basics/Entities.group.md)
+  - Entities : [group](../../The_Basics/Entities/group.md)
 
 ## Meronyms
 
   - [key](key.md)
   - [value](value.md)
+  - [iterate](iterate.md)
 
 [1]: README.md
