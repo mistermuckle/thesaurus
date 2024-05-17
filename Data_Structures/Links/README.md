@@ -5,4 +5,4 @@
   - [next](next.md)
   - [previous](previous.md)
 
-[1]: ../README.md
+[1]: ../../README.md

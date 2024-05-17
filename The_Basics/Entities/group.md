@@ -8,7 +8,7 @@
 
   - [block](block.md)
   - [bundle](bundle.md)
-  - Loops, Lists and Arrays : [list](../../Collections/Loops_Lists_and_Arrays/list.md)
+  - Loops, Lists and Arrays : [list](../../Data_Structures/Loops_Lists_and_Arrays/list.md)
 
 ## Meronyms
 

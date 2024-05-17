@@ -12,5 +12,8 @@
   - [foreach](foreach)
   - [item](item.md)
   - [slot](slot.md)
+  - Positions and Lengths : [capacity](../Positions_and_Lengths/capacity.md)
+  - Positions and Lengths : [count](../Positions_and_Lengths/count.md)
+  - Positions and Lengths : [length](../Positions_and_Lengths/length.md)
   
 [1]: README.md

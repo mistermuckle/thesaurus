@@ -9,6 +9,7 @@
   
 ## Hypernyms
 
-  - General : [value](../../The_Basics/General/value.md)
+  - Positioons and Lengths : [offset](../Positions_and_Lengths/offset.md)
+  - Positioons and Lengths : [position](../Positions_and_Lengths/position.md)
 
 [1]: README.md

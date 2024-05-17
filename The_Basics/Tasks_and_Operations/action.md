@@ -10,8 +10,8 @@
   - [process](process.md)
   - [routine](routine.md)
   - [task](task.md)
-  - Iterating : [iterate](../../Collections/Iterating/iterate.md)
-  - Iterating : [walk](../../Collections/Iterating/walk.md)
+  - Iterating : [iterate](../../Data_Structures/Iterating/iterate.md)
+  - Iterating : [walk](../../Data_Structures/Iterating/walk.md)
   - Language Features : [function](../../Programming_in_General/Language_Features/function.md)
 
 ## Synonyms

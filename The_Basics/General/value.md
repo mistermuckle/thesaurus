@@ -8,7 +8,7 @@
 
 ## Homonyms
 
-  - Iterating : [value](../../Collections/Iterating/value.md)
+  - Iterating : [value](../../Data_Structures/Iterating/value.md)
 
 ## Hyponyms
 
