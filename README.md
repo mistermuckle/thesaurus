@@ -9,7 +9,7 @@
 
    - [Language Features](Programming_in_General/Language_Features/README.md)
    - [Assigning](Programming_in_General/Assigning/README.md)
-   - [Data Types and Structures](Data_Types_and_Structures/README.md)
+   - [Data Types and Structures](Programming_in_General/Data_Types_and_Structures/README.md)
    - [Return Values](Programming_in_General/Return_Values/README.md)
    
 ## Data Structures
