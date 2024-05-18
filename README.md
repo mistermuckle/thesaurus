@@ -19,6 +19,8 @@
    - [Positions and Lengths](Data_Structures/Positions_and_Lengths/README.md)
    - [Links](Data_Structures/Links/README.md)
    - [Trees](Data_Structures/Trees/README.md)
+   - [Merging](Merging/README.md)
+   - [Resizing](Resizing/README.md)
 
 ## Object-Oriented Programming
 
@@ -52,13 +54,11 @@
    - [Graphical User Interfaces](Graphical_User_Interfaces/README.md)
    - [Math](Math/README.md)
    - [Memory and Garbage Collection](Memory_and_Garbage_Collection/README.md)
-   - [Merging](Merging/README.md)
    - [Messaging](Messaging/README.md)
    - [Networking](Networking/README.md)
    - [Output](Output/README.md)
    - [Processes](Processes/README.md)
    - [Receiving](Receiving/README.md)
-   - [Resizing](Resizing/README.md)
    - [Search](Search/README.md)
    - [Serializing](Serializing/README.md)
    - [States](States/README.md)

@@ -8,4 +8,4 @@
   - [join](join.md)
   - [merge](merge.md)
 
-[1]: ../README.md
+[1]: ../../README.md

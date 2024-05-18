@@ -4,4 +4,8 @@
 
   - [next](next.md)
 
-[↵ back](README.md)
+## Hypernyms
+
+  - Entities : [entity](../../The_Basics/Entities/entity.md)
+
+[1]: README.md
